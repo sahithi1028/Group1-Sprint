@@ -1,0 +1,41 @@
+.c{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.login{
+    justify-content: right;
+    align-items: flex-end;
+    font-size: calc(10px + 2vmin);
+    
+}
+.Footer {
+    background-color: #e9e9e9;
+    display: flex;
+    font-size: calc(10px + 2vmin);
+    color: #6b61fb;
+  }
+  h2 {
+
+    align-items: start;
+    justify-content: start;
+    font-size: calc(10px + 2vmin);
+    color: rgb(180, 42, 173);
+  }
+  h3{
+  
+    align-items: start;
+    justify-content: start;
+    font-size: calc(10px + 2vmin);
+    color: rgb(180, 42, 173);
+  }
+  
+  h4{
+  
+    text-align: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: rgb(180, 42, 173);
+  }
+
