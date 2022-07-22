@@ -1,2 +1,2 @@
-# Group1-Sprint
+# IPL-fantasy
 IPL Fantasy League
